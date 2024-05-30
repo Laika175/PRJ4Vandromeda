@@ -125,5 +125,15 @@ footer a:hover {
             }
         }
 
-
+/* Index  */
+  .column {
+        padding: 20px;
+	  background-color: #ABCA9E
+      }
+      .icon {
+        font-size: 50px;
+        margin-bottom: 10px;
+		  
+			  
+      }
 		        
