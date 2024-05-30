@@ -21,6 +21,13 @@ body {
   font-style: normal;
 }
 
+.roboto-bold2 {
+  font-family: "Roboto", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+	color: #35452A
+}
+
 .protest-strike-regular {
   font-family: "Protest Strike", sans-serif;
   font-weight: 400;
