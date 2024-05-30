@@ -36,6 +36,12 @@ body {
 color: #FADD8B
 }
 
+.protest-strike-regular2 {
+  font-family: "Protest Strike", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+color: #35452A
+
 /* Changing the background colour for the header */
 
 header {
