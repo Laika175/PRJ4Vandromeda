@@ -217,10 +217,11 @@ footer a:hover {
 
 /* Button */
 
-			  
 .dropdown-menu{
-    --bs-dropdown-link-active-bg: #4C6F57;
+	bs-dropdown-link-active-bg: #4C6F57;
 }
+
+
 
 .btn-primary {
   background-color: #4C6F57; 
